@@ -1,0 +1,84 @@
+	body {
+  	background: #d2b48c;
+ 
+	}
+
+	div.sound-details {
+    /*Main Page - Description*/
+  	background: #3a1515;
+  	color: white;
+  	border: none;
+	}
+
+	div.sound-details a {
+  	text-decoration: none;
+  	color: #cc7a30;
+  	font-weight: bold;
+	}
+
+	div.sound-details a:visited {
+  	color: #cc7a30;
+	}
+   
+	div#jp_container_1.jp-audio,
+	div#jp_container_1.jp-audio.jp-state-no-volume {
+    /*border of description and footer*/
+  	background-color: #3a1515;
+  	color: white;
+  	border: none;
+	}
+
+	ul {
+  	background-color: #cc7a30;
+  	color: white;
+	}
+
+	div.jp-time-holder,
+	div.jp-gui.jp-interface,
+	p {
+    /*Fill of description and play bar*/
+  	background-color: #3a1515;
+  	color: white;
+	}
+
+	div.jp-play-bar {
+  	background-color: #cc7a30;
+	}
+
+	div.jp-seek-bar {
+  	background-color: #cc7a30;
+	}
+
+	div.jp-details {
+  	background-color: #cc7a30;
+	}
+
+	div.jp-details .jp-title {
+    /*Title Fill*/
+  	background-color: #d49436;
+  	color: black;
+	}
+
+	div.jp-play,
+	div.jp-pause {
+  	border: none;
+	}
+
+	pre[style*="white-space: pre-wrap"] {
+  	background-color: #cc7a30;
+	}
+
+	div.jp-description {
+  	padding: 0.5em;
+  	font-family: Calibri, Arial, sans-serif;
+	}
+ 
+	div.jp-description span {
+  	color: black;
+  	display: inline-block; /* or inline-flex */
+	}
+
+	div.jp-description p {
+  	padding: 0.5em;
+  	font-family: Calibri, Arial, sans-serif;
+	}
